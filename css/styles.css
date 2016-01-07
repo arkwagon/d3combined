@@ -8,10 +8,15 @@
 }
 
 img {
-  float: left;
+  float: center;
 }
 
 .column {
   width: 300px;
   float: left;
+  margin: 12px;
+  border: 2px solid green;
+  padding: 10px;
+  background-color: orange;
+  text-align: center;
 }
